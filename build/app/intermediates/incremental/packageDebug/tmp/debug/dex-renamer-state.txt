@@ -1,0 +1,4 @@
+#Mon Nov 29 11:05:48 WAT 2021
+base.0=/Users/mac/Desktop/FlutterApps/tesleem_pagination_pokemon_api/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
